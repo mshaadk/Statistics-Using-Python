@@ -1,5 +1,5 @@
 # Statistics with Python in Jupyter Notebook
-This repository contains various statistical concepts and visualizations implemented using Python, ranging from basic descriptive statistics to advanced probability distributions and data visualization techniques. The project also includes inferential statistics, working with distributions, and generating meaningful insights through Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn.
+This repository contains various statistical concepts and visualizations implemented using Python, ranging from basic descriptive statistics to advanced probability distributions and data visualization techniques. The project also includes inferential statistics, working with distributions, and generating meaningful insights through Python libraries such as `NumPy`, `Pandas`, `Matplotlib`, and `Seaborn`.
 
 ## Table of Contents
 1. [Introduction](#introduction)
