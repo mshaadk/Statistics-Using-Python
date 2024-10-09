@@ -38,15 +38,15 @@ jupyter notebook Statistics Using Python.ipynb
 
 ## Key Topics Covered
 ### 1. Central Tendency
-  - Mean: The average value of a dataset.
-  - Median: The middle value in a dataset.
-  - Mode: The most frequent value in a dataset.
+  - **Mean**: The average value of a dataset.
+  - **Median**: The middle value in a dataset.
+  - **Mode**: The most frequent value in a dataset.
 
 ### 2. Measures of Spread
-  - Range: The difference between the maximum and minimum values.
-  - Interquartile Range (IQR): Spread of the middle 50% of the data.
-  - Variance: The average of the squared differences from the mean.
-  - Standard Deviation: The square root of variance, indicating data spread.
+  - **Range**: The difference between the maximum and minimum values.
+  - **Interquartile Range (IQR)**: Spread of the middle 50% of the data.
+  - **Variance**: The average of the squared differences from the mean.
+  - **Standard Deviation**: The square root of variance, indicating data spread.
 
 ### 3. Probability Distributions
   - Bernoulli Distribution
@@ -56,8 +56,8 @@ jupyter notebook Statistics Using Python.ipynb
   - Normal Distribution
     
 ### 4. Inferential Statistics
-  - Sampling Distributions: Calculating sample means and comparing them to the population mean.
-  - Central Limit Theorem (CLT): The distribution of the sample means approximates a normal distribution as sample size increases.
+  - **Sampling Distributions**: Calculating sample means and comparing them to the population mean.
+  - **Central Limit Theorem (CLT)**: The distribution of the sample means approximates a normal distribution as sample size increases.
 
 ## Data Visualization
 ### Visualization Techniques
